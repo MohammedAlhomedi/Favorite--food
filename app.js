@@ -27,8 +27,8 @@
 
 
 
-
-var userName = prompt("Whats your name ?");
+//////////////////////////////////////
+/*var userName = prompt("Whats your name ?");
 alert("welcome to our websit " + userName)
 
 function favfoood() {
