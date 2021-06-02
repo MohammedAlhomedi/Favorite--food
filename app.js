@@ -28,7 +28,11 @@
 
 
 //////////////////////////////////////
+//<<<<<<< HEAD
+//var userName = prompt("Whats your name ?");
+
 var userName = prompt("Whats your name ?");
+ //030f764539998cc597e66dc51ba1d378fac7a018
 alert("welcome to our websit " + userName)
 
 function favfoood() {
