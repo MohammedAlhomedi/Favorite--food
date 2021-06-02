@@ -27,7 +27,7 @@
 
 
 
-
+//////////////////////////////////////
 var userName = prompt("Whats your name ?");
 alert("welcome to our websit " + userName)
 
